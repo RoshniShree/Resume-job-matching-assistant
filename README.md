@@ -30,7 +30,7 @@ Use Python 3.10 or newer.
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/resume-job-matching-assistant.git
+git clone https://github.com/RoshniShree/resume-job-matching-assistant.git
 cd resume-job-matching-assistant
 ```
 
