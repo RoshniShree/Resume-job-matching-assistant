@@ -1,0 +1,18 @@
+Sample Job Description: Junior Python Developer
+
+Responsibilities:
+- Build and maintain Python applications.
+- Write readable, testable, and maintainable code.
+- Work with APIs, databases, and version control.
+- Debug issues and collaborate with a development team.
+- Document software and participate in code reviews.
+
+Preferred skills:
+- Python programming
+- Object-oriented programming
+- SQL and database fundamentals
+- REST APIs
+- Git and GitHub
+- Problem-solving
+- Communication and teamwork
+- Basic testing and debugging
